@@ -1,0 +1,28 @@
+Spring Boot Interview Questions For Freshers
+1. What are the advantages of using Spring Boot?
+The advantages of Spring Boot are listed below:
+
+Easy to understand and develop spring applications.
+Spring Boot is nothing but an existing framework with the addition of an embedded HTTP server and annotation configuration which makes it easier to understand and faster the process of development.
+Increases productivity and reduces development time.
+Minimum configuration.
+We don’t need to write any XML configuration, only a few annotations are required to do the configuration.
+2. What are the Spring Boot key components?
+Below are the four key components of spring-boot:
+
+Spring Boot auto-configuration.
+Spring Boot CLI.
+Spring Boot starter POMs.
+Spring Boot Actuators.
+3. Why Spring Boot over Spring?
+Below are some key points which spring boot offers but spring doesn’t:
+
+Starter POM.
+Version Management.
+Auto Configuration.
+Component Scanning.
+Embedded server.
+InMemory DB.
+Actuators
+Spring Boot simplifies the spring feature for the user:
+
