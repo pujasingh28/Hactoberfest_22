@@ -14,3 +14,18 @@ It contains powerful database transaction management capabilities.
 It simplifies integration with other Java frameworks like JPA/Hibernate ORM, Struts, etc.
 It reduces the cost and development time of the application.
 Along with the Spring Boot Framework, many other Spring sister projects help to build applications addressing modern business needs. There are the following Spring sister projects are as follows:
+Spring Data: It simplifies data access from the relational and NoSQL databases.
+Spring Batch: It provides powerful batch processing.
+Spring Security: It is a security framework that provides robust security to applications.
+Spring Social: It supports integration with social networking like LinkedIn.
+Spring Integration: It is an implementation of Enterprise Integration Patterns. It facilitates integration with other enterprise applications using lightweight messaging and declarative adapters.
+Advantages of Spring Boot
+It creates stand-alone Spring applications that can be started using Java -jar.
+It tests web applications easily with the help of different Embedded HTTP servers such as Tomcat, Jetty, etc. We don't need to deploy WAR files.
+It provides opinionated 'starter' POMs to simplify our Maven configuration.
+It provides production-ready features such as metrics, health checks, and externalized configuration.
+There is no requirement for XML configuration.
+It offers a CLI tool for developing and testing the Spring Boot application.
+It offers the number of plug-ins.
+It also minimizes writing multiple boilerplate codes (the code that has to be included in many places with little or no alteration), XML configuration, and annotations.
+It increases productivity and reduces development time.
